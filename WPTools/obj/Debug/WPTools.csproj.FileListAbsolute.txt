@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\VTSBlog开发\DemoMySQL\WPTools\bin\Debug\WPTools.exe.config
+C:\Users\Administrator\Desktop\VTSBlog开发\DemoMySQL\WPTools\bin\Debug\WPTools.exe
+C:\Users\Administrator\Desktop\VTSBlog开发\DemoMySQL\WPTools\bin\Debug\WPTools.pdb
+C:\Users\Administrator\Desktop\VTSBlog开发\DemoMySQL\WPTools\obj\Debug\WPTools.exe
+C:\Users\Administrator\Desktop\VTSBlog开发\DemoMySQL\WPTools\obj\Debug\WPTools.pdb
+F:\Code\DemoMySQL\WPTools\bin\Debug\WPTools.exe.config
+F:\Code\DemoMySQL\WPTools\obj\Debug\WPTools.exe
+F:\Code\DemoMySQL\WPTools\obj\Debug\WPTools.pdb
+F:\Code\DemoMySQL\WPTools\bin\Debug\WPTools.exe
+F:\Code\DemoMySQL\WPTools\bin\Debug\WPTools.pdb

@@ -1,0 +1,11 @@
+F:\Code\DemoMySQL\WPTools\bin\x86\Release\WPTools.exe.config
+F:\Code\DemoMySQL\WPTools\bin\x86\Release\WPTools.exe
+F:\Code\DemoMySQL\WPTools\bin\x86\Release\WPTools.pdb
+F:\Code\DemoMySQL\WPTools\obj\x86\Release\WPTools.exe
+F:\Code\DemoMySQL\WPTools\obj\x86\Release\WPTools.pdb
+F:\Code\A\WPTools\WPTools\bin\x86\Release\WPTools.exe.config
+E:\F\Code\A\WPTools\WPTools\bin\x86\Release\WPTools.exe.config
+E:\F\Code\A\WPTools\WPTools\bin\x86\Release\WPTools.exe
+E:\F\Code\A\WPTools\WPTools\bin\x86\Release\WPTools.pdb
+E:\F\Code\A\WPTools\WPTools\obj\x86\Release\WPTools.exe
+E:\F\Code\A\WPTools\WPTools\obj\x86\Release\WPTools.pdb
